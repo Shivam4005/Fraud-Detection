@@ -2,14 +2,14 @@
 Develop a real-time fraud detection system using machine learning to identify fraudulent credit card transactions with high accuracy and minimal false positives.
 # Project Structure
 fraud-detection-preprocessing/
-├── data/
-│   └── fraud_dataset.csv
-├── notebooks/
-│   └── preprocessing_and_visualization.ipynb
-├── presentation/
-│   └── fraud_preprocessing_presentation.pdf
-├── README.md
-└── requirements.txt
+├── data/  
+│   └── fraud_dataset.csv  
+├── notebooks/  
+│   └── preprocessing_and_visualization.ipynb  
+├── presentation/  
+│   └── fraud_preprocessing_presentation.pdf  
+├── README.md  
+└── requirements.txt  
 # Features / Tasks Completed
 ## Key Tasks Completed
 
