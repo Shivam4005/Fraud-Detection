@@ -1,0 +1,16 @@
+# Core libraries
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Machine Learning and preprocessing
+scikit-learn==1.4.2
+
+# Jupyter Notebook support
+jupyter==1.0.0
+
+# Optional: For progress bars or enhanced terminal outputs
+tqdm==4.66.2
