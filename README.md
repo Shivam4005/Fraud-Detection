@@ -3,11 +3,11 @@ Develop a real-time fraud detection system using machine learning to identify fr
 # Project Structure
 fraud-detection-preprocessing/  
 ├── data/  
- │   └── fraud_dataset.csv  
+│   └── fraud_dataset.csv  
 ├── notebooks/  
- │   └── preprocessing_and_visualization.ipynb  
+│   └── preprocessing_and_visualization.ipynb  
 ├── presentation/  
- │   └── fraud_preprocessing_presentation.pdf  
+│   └── fraud_preprocessing_presentation.pdf  
 ├── README.md  
 └── requirements.txt  
 # Features / Tasks Completed
