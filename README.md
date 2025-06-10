@@ -13,6 +13,7 @@ fraud-detection-preprocessing/
 # Features / Tasks Completed
 ## Key Tasks Completed
 
+- ✅ To interact with the dashboard you can download the pbix file from the repository and open it in Power BI Desktop locally.
 - ✅ Cleaned dataset (removed duplicates, standardized formats)
 - ✅ Handled missing values (mean/mode imputation)
 - ✅ Performed feature selection using correlation matrix and domain logic
