@@ -1,25 +1,25 @@
 # Fraud-Detection
 Develop a real-time fraud detection system using machine learning to identify fraudulent credit card transactions with high accuracy and minimal false positives.
 # Project Structure
-Fraud-Detection/
-├── Dashboard/
-│ └── app.py
-├── data/
-│ └── fraud_dataset.csv
-├── images/
-│ ├── correlation_matrix.png
-│ ├── Correlation heatmap.png
-│ ├── Income distribution across professions.png
-│ ├── Income distribution by fraud status.png
-│ └── fraud_vs_nonfraud.png
-├── notebooks/
-│ ├── Visualizing Fraud Detection.ipynb
-│ └── fraud-detection.ipynb
-├── presentation/
-│ ├── fraud_preprocessing_presentation.pdf
-│ └── Visualizing-Fraud-Detection-Insights.pdf
-├── README.md
-└── requirements.txt 
+Fraud-Detection/  
+├── Dashboard/   
+│ └── app.py  
+├── data/   
+│ └── fraud_dataset.csv  
+├── images/  
+│ ├── correlation_matrix.png   
+│ ├── Correlation heatmap.png    
+│ ├── Income distribution across professions.png    
+│ ├── Income distribution by fraud status.png   
+│ └── fraud_vs_nonfraud.png   
+├── notebooks/   
+│ ├── Visualizing Fraud Detection.ipynb   
+│ └── fraud-detection.ipynb  
+├── presentation/   
+│ ├── fraud_preprocessing_presentation.pdf  
+│ └── Visualizing-Fraud-Detection-Insights.pdf   
+├── README.md   
+└── requirements.txt    
 # Features / Tasks Completed
 ## Key Tasks Completed
 
